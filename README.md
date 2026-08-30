@@ -10,7 +10,7 @@ converts:
 4.	current
 5.	pressure
 6.	time
-7.	air mass
+7.	air mass (Requires RPM in the log) 
 8.	logical states (on/off, open/close,... to 1/0)
 
 <img width="904" height="635" alt="preview" src="https://github.com/user-attachments/assets/9be3814c-6380-4af6-b772-90a9296a0018" />
